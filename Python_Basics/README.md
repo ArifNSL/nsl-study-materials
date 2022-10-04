@@ -10,10 +10,10 @@ Date-[19-8-22]
 ### Week#02
 
 -  Studied **Function and module** from NSL Provided links. Practised Lambda, Filter , Map, Generator , Pure Impure Function.<br>
-[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/Python_Basics/Functional_Programming)<br>
+[Link](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/tree/main/Python_Basics/Functional_Programming)<br>
 Date-[22-8-22]
 - Studied **File and exception** from NSL Provided Links, Practised Exception Handling, raise and File Operations.<br>
-[Link](https://github.com/nuhash-nsl/NSL-RA-Training/tree/main/Python_Basics/File_Exception)<br>
+[Link](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/tree/main/Python_Basics/File_%26_Exception)<br>
 Date-[23-8-22]
 - Studied about Encoding, PEP, __main_  
 - Studied Packaging <br>

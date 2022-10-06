@@ -18,7 +18,6 @@ Studied From NSL resource and Shafayat's Blog.
 ### Dynamic programming
 - [Fibonacci numbers, Coin change problem, 0-1 KnapSack problem](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/blob/main/Data_Structures/Dynamic_Programming.ipynb)
 
-**NB: In each resource there are relative problem link. Please try to solve each problem**
 
 ## Other resources
 - [Algorithm analysis with Big O](https://runestone.academy/runestone/books/published/pythonds/AlgorithmAnalysis/toctree.html)

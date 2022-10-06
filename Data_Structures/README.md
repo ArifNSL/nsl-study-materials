@@ -2,13 +2,10 @@
 
 ## Week#01
 
-### Presentaion on coding conversion
-- Presentation by *Faruk Ahmad*
-
 ### Time and space complexity 
-- [Big O notation](http://www.shafaetsplanet.com/?p=1313)
-- [P vs NP problem category](http://www.shafaetsplanet.com/?p=1642)
-- [Solve the problem added at the end of the resource](http://www.shafaetsplanet.com/?p=2279)
+- [Big O notation]- Studied From NSL resource and Shafayat's Blog. <br> [22-06-22]
+- [P vs NP problem category] - Studied From NSL resource and Shafayat's Blog <br> [23-06-22]
+# TO BE STUDIED
 
 ### Data structure
 - [Linked list](http://www.shafaetsplanet.com/?p=2689)

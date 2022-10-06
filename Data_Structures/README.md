@@ -3,28 +3,20 @@
 ## Week#01
 
 ### Time and space complexity 
-- [Big O notation]- Studied From NSL resource and Shafayat's Blog. <br> [22-06-22]
-- [P vs NP problem category] - Studied From NSL resource and Shafayat's Blog <br> [23-06-22]
-# TO BE STUDIED
+- [Big O notation]- Studied From NSL resource and Shafayat's Blog. <br> [12-09-22]
+- [P vs NP problem category] - Studied From NSL resource and Shafayat's Blog <br> [12-09-22]
 
 ### Data structure
-- [Linked list](http://www.shafaetsplanet.com/?p=2689)
-- [Stack](http://www.shafaetsplanet.com/?p=2342)
-- [Queue](http://www.shafaetsplanet.com/?p=2911)
-- [Dequeue](http://www.shafaetsplanet.com/?p=2316)
-- [Disjoint set](http://www.shafaetsplanet.com/?p=763)
-- [Array compression](http://www.shafaetsplanet.com/?p=1388)
+Studied From NSL resource and Shafayat's Blog.
+- [Linked list, Stack, Queue, Dequeue](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/blob/main/Data_Structures/Data_Structures_01.ipynb)
+- [Disjoint set, Array compression](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/blob/main/Data_Structures/Data_Structures_02.ipynb)
 
 ## Week#02
 ### Algorithm
-- [Adjacency list](http://www.shafaetsplanet.com/?p=211)
-- [BFS](http://www.shafaetsplanet.com/?p=604)
-- [Topological sort](http://www.shafaetsplanet.com/?p=848)
-- [DFS](http://www.shafaetsplanet.com/?p=973)
+- [Adjacency list, BFS, Topological sort, DFS](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/blob/main/Data_Structures/Algorithm.ipynb)
 
 ### Dynamic programming
-- [Fibonacci numbers](http://www.shafaetsplanet.com/?p=1022)
-- [Coin change problem](http://www.shafaetsplanet.com/?p=3638)
+- [Fibonacci numbers, Coin change problem, 0-1 KnapSack problem](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/blob/main/Data_Structures/Dynamic_Programming.ipynb)
 
 **NB: In each resource there are relative problem link. Please try to solve each problem**
 

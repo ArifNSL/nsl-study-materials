@@ -1,46 +1,48 @@
-# Python learning Course Outline and Timeline
+<h2>Python basic </h2>
+  
+<h3>week 1 </h3>
+<ol>
+      <li>Introduction</li>
+      <li>Installation</li>
+      <li>Basic concept</li>
+      <li>Control structure</li>
+</ol>
+  
+  
 
-## Basic python 
-### Week#01
-- Studied Intro, Installation, Basic Concepts, Control Structure ,Data Types from NSL provided Links.<br> 
-Date-[19-8-22]
+  <h3>week 2 </h3>
+    <ol>
+      <li>Function and module</li>
+      <li>File and exception</li>
+      <li>Encoding ,PEP, main</li>
+      <li>Packaging</li>
+      <li>Object oriented programming</li>
+    </ol>
 
------
+  
 
-### Week#02
+<h3>week 3 </h3>
+  <h4>Hackerrank</h4>
+    <ol>
+      <li>String</li>
+      <li>Math</li>
+      <li>Numpy</li>
+      <li>Basics</li>
+    </ol>
 
--  Studied **Function and module** from NSL Provided links. Practised Lambda, Filter , Map, Generator , Pure Impure Function.<br>
-[Link](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/tree/main/Python_Basics/Functional_Programming)<br>
-Date-[22-8-22]
-- Studied **File and exception** from NSL Provided Links, Practised Exception Handling, raise and File Operations.<br>
-[Link](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/tree/main/Python_Basics/File_%26_Exception)<br>
-Date-[23-8-22]
-- Studied about Encoding, PEP, __main_  
-- Studied Packaging <br>
-Date-[24-8-22]
+<h3>week 4 </h3>
+  <h4>Hackerrank<h4/>
+    <ol>
+      <li>Numpy</li>
+      <li>Class</li>
+      <li>Regex</li>
+      <li>Error and exception</li>
+    </ol>
 
-## Python OOP
-- Studied **OOP Python** from NSL Provided links and Practised with all codes and examined the functionalities.
-- Studied Class, Inheritance , Multiple Inheritance , Overriding, Polymorphism, Operator Overloading, Magic Methods, Data hiding. <br>
- Date-[26-8-22] <br>
-  [Link](https://github.com/Abdullahil-Mahmud-Arif/nsl-study-materials/tree/main/Python_Basics/OOP)
-
------
-
-## Problem solving using python
-### Week#03 and Week#04
-- [Hacker rank ID](https://www.hackerrank.com/mdarif1)<br>
-  Have Earned 5 stars in Domain of Python
-- Still Trying to solve Must solve problems links. Solved 48/115 Problems.<br> Solving the required Topics.
-- Must solve problems links
-  - [Strings](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-strings&filters%5Bdifficulty%5D%5B%5D=medium)
-  - [Math](https://www.hackerrank.com/challenges/python-quest-1)
-  - [Error and exception](https://www.hackerrank.com/domains/python?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bsubdomains%5D%5B%5D=errors-exceptions)
-  - [class](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-classes)
-  - [Regex](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-regex&filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bdifficulty%5D%5B%5D=medium)
-  - [xml](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=xml)
-  - [Numpy](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=numpy)
-  - [Debugging](https://www.hackerrank.com/domains/python?filters%5Bdifficulty%5D%5B%5D=medium&filters%5Bsubdomains%5D%5B%5D=py-debugging)
-## Week # 05 - 06
-
-- Communication guidelines. Watched the presentation by Faruk Bhai
+  
+ <h2>Reference links</h2>
+ <ol type='1'>
+  <li>[বাংলায় পাইথন] (https://python.howtocode.dev/)</li>
+  <li>[My hackerrank python submission] (https://www.hackerrank.com/FABKUET)</li>
+  
+</ol>

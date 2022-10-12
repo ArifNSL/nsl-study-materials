@@ -1,40 +1,40 @@
-Data Structure and Algorithmn in Python
+# Data Structure Algorithm
 
-<h3>Fundamental of Data sturctures and algoritms concepts</h3>
+## Week#01
+### Time and space complexity 
+- Big O notation
+- P vs NP problem category)
 
-<ol>
-<li>Complexities analysis</li>
-<li>Search algorithms</li>
-<li>Recursion</li>
-<li>Array compression</li>
-<li>Dynamic programming</li>
-</ol>
+### Data structure
+- Linked list
+- Stack
+- Queue
+- Dequeue
+- Disjoint set
+- Array compression
 
-<h3>Data Structure</h3>
+## Week#02
+### Algorithm
+- Adjacency list
+- BFS
+- Topological sort
+- DFS
 
-<ol>
-<li>Linked List</li>
-<li>Stack</li>
-<li>Queue</li>
-<li>Deque</li>
-<li>Disjoint Set</li>
-<li>Trees</li>
-</ol>
-
-<h3>Algorithm</h3>
-<ol>
- <li>Graph respresentation</li>
- <li>BFS</li>
- <li>DFS</li>
- <li>Topological sorting</li>
-</ol>
-
+## Week#03
 ### Dynamic programming
-1. Fibonacci numbers
-2. Coin change problem
+- Fibonacci numbers
+- Coin change problem
+- 0-1 Knapsack problem
 
-<h2> References link </h2>
-<ol>
-<li> [Runstone Academy] (https://runestone.academy/runestone/books/published/pythonds/index.html) </li>
-<li> [শাফায়েতের ব্লগ] (https://www.shafaetsplanet.com/) </li>
-</ol>
+
+## Week#04
+## Projects - 1
+- Breakout game using python
+
+## In progress
+## Week#05
+## Projects - 2
+Convert the `project - 1` as shooter game.
+Game should have following feature
+- You can shoot the brick
+- Bricks are moveable towords down

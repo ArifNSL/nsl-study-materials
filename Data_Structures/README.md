@@ -29,6 +29,10 @@ Data Structure and Algorithmn in Python
  <li>Topological sorting</li>
 </ol>
 
+### Dynamic programming
+1. [Fibonacci numbers](http://www.shafaetsplanet.com/?p=1022)
+2. [Coin change problem](http://www.shafaetsplanet.com/?p=3638)
+
 <h2> References link </h2>
 <ol>
 <li> [Runstone Academy] (https://runestone.academy/runestone/books/published/pythonds/index.html) </li>

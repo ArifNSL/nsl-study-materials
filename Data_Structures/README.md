@@ -3,7 +3,7 @@
 ## Week#01
 ### Time and space complexity 
 - Big O notation
-- P vs NP problem category)
+- P vs NP problem category
 
 ### Data structure
 - Linked list

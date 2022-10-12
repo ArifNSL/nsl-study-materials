@@ -14,7 +14,7 @@ class Ball(pygame.sprite.Sprite):
         self.image = pygame.Surface([width, height])
         self.image.fill(BLACK)
         self.image.set_colorkey(BLACK)
-        self.mask = pygame.mask.from_surface(self.image)
+        #self.mask = pygame.mask.from_surface(self.image)
         
         #rectangular ball
         pygame.draw.rect(self.image, color, [0, 0, width, height])

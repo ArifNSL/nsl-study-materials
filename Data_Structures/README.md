@@ -31,7 +31,7 @@
 ## Projects - 1
 - Breakout game using python
 
-## In progress
+## In progress:
 ## Week#05
 ## Projects - 2
 Convert the `project - 1` as shooter game.

@@ -30,8 +30,8 @@ Data Structure and Algorithmn in Python
 </ol>
 
 ### Dynamic programming
-1. [Fibonacci numbers](http://www.shafaetsplanet.com/?p=1022)
-2. [Coin change problem](http://www.shafaetsplanet.com/?p=3638)
+1. Fibonacci numbers
+2. Coin change problem
 
 <h2> References link </h2>
 <ol>

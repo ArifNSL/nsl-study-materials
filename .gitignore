@@ -1,0 +1,8 @@
+.env
+*.txt
+!LICENSE.txt
+mlzero_to_hero-01.png
+aclImdb/
+*.tar.gz
+*.zip
+.ipynb_checkpoints/

@@ -1,5 +1,4 @@
 # NSL Study Materials
----
 
 1. [x] [Python Basics ][Python_Basics]
 2. [x] [Data Structure & Algorithm ][Data_Structures]
